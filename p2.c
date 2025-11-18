@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    float num=17/3;
-    printf("Num=%d\n",num);
+    int a=2;
+    printf("Num=%d\n",&a);
     printf("Num=%f\n",num);
 }
